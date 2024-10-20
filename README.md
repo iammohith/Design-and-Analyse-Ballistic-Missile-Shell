@@ -16,6 +16,6 @@ Computational Fluid Dynamics (CFD) analysis is extensively employed to study aer
 7. DFMA study
 8. Conclusion
 
-##Conclusion
+## Conclusion
 
 In conclusion, all of the missiles demonstrated significant impact and aerodynamic stability at speeds below 5000 m/s. However, some missile designs require speed optimization, as they have successfully endured up to 100 cycles in fatigue testing. The application of filleting to the sharp edges greatly contributed to reducing the overall volume of the missiles while enhancing their aerodynamic performance. For the assembly process, rivet joints are recommended due to their time efficiency and structural stability. I was particularly successful in achieving the design objectives for the tenth missile, which demonstrated both greater impact potential and improved aerodynamic stability. Overall, this project provided a valuable learning experience, giving me substantial exposure to missile research and development.
